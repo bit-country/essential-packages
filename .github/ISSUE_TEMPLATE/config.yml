@@ -3,11 +3,11 @@ description: Sample description
 blank_issues_enabled: true
 contact_links:
   - name: Discord Chat
-    url: https://chat.techmely.com
-    about: Ask questions and discuss with Techmely's team in real time.
+    url: https://chat.bit-country.com
+    about: Ask questions and discuss with bit-country's team in real time.
   - name: Questions & Discussions
-    url: https://github.com/harrytran998/techmely/discussions
+    url: https://github.com/harrytran998/bit-country/discussions
     about: Use GitHub discussions for message-board style questions and discussions.
   - name: Donate
-    url: https://opencollective.com/techmely/donate
-    about: Love Techmely product? Please consider supporting us via Open Collective.
+    url: https://opencollective.com/bit-country/donate
+    about: Love bit-country product? Please consider supporting us via Open Collective.

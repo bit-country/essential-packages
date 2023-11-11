@@ -2,14 +2,14 @@ name: 🦄 Feature Request
 description: Suggest an idea for a new feature or enhancement
 title: "[FEAT]: "
 labels: ["feature"]
-assignees: ["techmely"]
+assignees: ["bit-country"]
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for taking the time to complete this feature!
         Please carefully read the contribution guidelines before request a review from others.
-        https://github.com/techmely/essential-packages/blob/main/docs/contribution.md#create-feature-request
+        https://github.com/bit-country/essential-packages/blob/main/docs/contribution.md#create-feature-request
   - type: textarea
     id: describe-feature
     attributes:
@@ -30,8 +30,8 @@ body:
       label: Acceptance Criteria Checklist
       description: The standard criteria that a feature must satisfy to be accepted
       options:
-        - label: Read the [contribution guide](https://github.com/techmely/essential-packages/blob/main/docs/contribution.md)
-        - label: Check existing [discussions](https://github.com/techmely/essential-packages/discussions) and [issues](https://github.com/techmely/essential-packages/issues).
+        - label: Read the [contribution guide](https://github.com/bit-country/essential-packages/blob/main/docs/contribution.md)
+        - label: Check existing [discussions](https://github.com/bit-country/essential-packages/discussions) and [issues](https://github.com/bit-country/essential-packages/issues).
           required: true
         - label: The scope of the feature is clear and small enough to be implemented in a single MR - Not exceeding 500 lines of code and 40 files changed.
           required: true
